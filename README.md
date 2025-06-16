@@ -8,7 +8,7 @@ Aplicación de escritorio desarrollada en Python con `customtkinter` que permite
 
 - [🔧 Requisitos](#-requisitos)
 - [🧩 Estructura del proyecto](#-Estructura_del_proyecto)
-- [🖥️ Uso de la aplicación](#-Uso_de_la_aplicacion)
+- [🖥️ Uso de la aplicación](#-uso_de_la_aplicacion)
 
 
 ---
