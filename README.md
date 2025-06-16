@@ -8,7 +8,7 @@ Aplicación de escritorio desarrollada en Python con `customtkinter` que permite
 
 - [🔧 Requisitos](#-requisitos)
 - [🧩 Estructura del proyecto](#-Estructura_del_proyecto)
-- [🖥️ Uso de la aplicación](#-Uso_de_la_aplicación)
+- [🖥️ Uso de la aplicación](#-Uso_de_la_aplicacion)
 
 
 ---
@@ -33,7 +33,7 @@ musica-historica/
 -├── canciones.json          # Archivo local donde se almacenan las canciones
 -└── README.md               # Documentación del proyecto
 
-## 🖥️ Uso_de_la_aplicación
+## 🖥️ Uso_de_la_aplicacion
 
 En el menú principal puedes elegir:
 
