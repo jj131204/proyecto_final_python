@@ -9,9 +9,8 @@ Aplicación de escritorio desarrollada en Python con `customtkinter` que permite
 - [🔧 Requisitos](#-requisitos)
 - [🧩 Estructura del proyecto](#-estructura-del-proyecto)
 - [📌 Funcionalidades](#-funcionalidades)
-- [📤 Exportar y guardar](#-exportar-y-guardar)
-- [💡 Ideas futuras](#-ideas-futuras)
-- [📄 Licencia](#-licencia)
+- [🖥️ Uso de la aplicación](#-funcionalidades)
+
 
 ---
 
@@ -35,7 +34,7 @@ musica-historica/
 -├── canciones.json          # Archivo local donde se almacenan las canciones
 -└── README.md               # Documentación del proyecto
 
-🖥️ Uso de la aplicación
+## 🖥️ Uso de la aplicación
 
 En el menú principal puedes elegir:
 
