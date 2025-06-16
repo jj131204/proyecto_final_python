@@ -25,6 +25,7 @@ Instala las dependencias necesarias ejecutando:
 
 ```bash
 pip install customtkinter
+```
 
 ## 🧩 Estructura del proyecto
 musica-historica/
