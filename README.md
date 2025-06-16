@@ -26,7 +26,7 @@ Instala las dependencias necesarias ejecutando:
 pip install customtkinter
 ```
 
-## 🧩 Estructura del proyecto
+## 🧩 estructura-del-proyecto
 musica-historica/
 -├── index.py                # Archivo principal de la aplicación
 -├── saveSongs.py            # Funciones para guardar y cargar canciones (JSON)
