@@ -29,10 +29,9 @@ pip install customtkinter
 
 ## 🧩 Estructura del proyecto
 musica-historica/
-├── index.py                # Archivo principal de la aplicación
-├── saveSongs.py            # Funciones para guardar y cargar canciones (JSON)
-├── createCard.py           # Generación de tarjetas con información de canciones
-├── modal.py                # Modales de éxito y error reutilizables
-├── canciones.json          # Archivo local donde se almacenan las canciones
-└── README.md               # Documentación del proyecto
+-├── index.py                # Archivo principal de la aplicación
+-├── saveSongs.py            # Funciones para guardar y cargar canciones (JSON)
+-├── modal.py                # Modales de éxito y error reutilizables
+-├── canciones.json          # Archivo local donde se almacenan las canciones
+-└── README.md               # Documentación del proyecto
 
