@@ -7,9 +7,8 @@ Aplicación de escritorio desarrollada en Python con `customtkinter` que permite
 ## 📂 Índice
 
 - [🔧 Requisitos](#-requisitos)
-- [🧩 Estructura del proyecto](#-estructura-del-proyecto)
-- [📌 Funcionalidades](#-funcionalidades)
-- [🖥️ Uso de la aplicación](#-funcionalidades)
+- [🧩 Estructura del proyecto](#-Estructura_del_proyecto)
+- [🖥️ Uso de la aplicación](#-Uso_de_la_aplicación)
 
 
 ---
@@ -26,7 +25,7 @@ Instala las dependencias necesarias ejecutando:
 pip install customtkinter
 ```
 
-## 🧩 estructura-del-proyecto
+## 🧩 Estructura_del_proyecto
 musica-historica/
 -├── index.py                # Archivo principal de la aplicación
 -├── saveSongs.py            # Funciones para guardar y cargar canciones (JSON)
@@ -34,7 +33,7 @@ musica-historica/
 -├── canciones.json          # Archivo local donde se almacenan las canciones
 -└── README.md               # Documentación del proyecto
 
-## 🖥️ Uso de la aplicación
+## 🖥️ Uso_de_la_aplicación
 
 En el menú principal puedes elegir:
 
