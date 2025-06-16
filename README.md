@@ -35,3 +35,28 @@ musica-historica/
 -├── canciones.json          # Archivo local donde se almacenan las canciones
 -└── README.md               # Documentación del proyecto
 
+🖥️ Uso de la aplicación
+
+En el menú principal puedes elegir:
+
+    ✅ Registrar nueva canción
+
+    ✅ Ver canciones registradas
+
+Al registrar una canción debes completar:
+
+    🎵 Nombre de la canción
+
+    📝 Letra o descripción
+
+    🔗 Enlace de YouTube
+
+En la sección de canciones registradas:
+
+    📋 Verás una lista en forma de tarjetas desplazables.
+
+    👆 Al hacer clic en una tarjeta puedes ver los detalles completos.
+
+    ❌ Puedes eliminar canciones o
+
+    ▶️ Abrir el video directamente en el navegador.
