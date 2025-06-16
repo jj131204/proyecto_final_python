@@ -132,7 +132,7 @@ class MusicaHistoricaApp(ctk.CTk):
 
         ctk.CTkButton(self, text="Ver video en YouTube", command=lambda: webbrowser.open(cancion['link'])).pack(pady=10)
 
-        ctk.CTkButton(self, text="Borrar Canción", fg_color="red", hover_color="#CC0000",
+        ctk.CTkButton(self, text="Borrar Canción",
                       command=lambda: self.eliminar_cancion(cancion)).pack(pady=10)
 
         ctk.CTkButton(self, text="← Volver", command=self.mostrar_lista).pack(pady=5)
